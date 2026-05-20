@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @harikrishnagadi
-- 👀 I’m interested in Machine Learning, Deep Learning, Embedded Programming, Python scripting, Javascript, Databases
-- 🌱 I’m currently learning ML, DL and Embedded Programming
 - 📫 How to reach me gadiharikrishna@gmail.com
 
 <!---
